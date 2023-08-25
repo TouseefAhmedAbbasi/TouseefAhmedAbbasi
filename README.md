@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @TouseefAhmedAbbasi
+- 👋 Hi, I’m @TouseefAhmed.
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Data Science
-- 📫 How to reach me Data Science and Machine Learning
+- 💞️ I’m looking to collaborate on Data Science and Machine Learning
+- 📫 How to reach me linkedin.com/in/touseef-ahmed-5a8586229
 
 <!---
 TouseefAhmedAbbasi/TouseefAhmedAbbasi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
